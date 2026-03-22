@@ -1,0 +1,15 @@
+/Users/george.moses/Ball State/CS690-Project/SoloTravelPlanner/bin/Debug/net10.0/SoloTravelPlanner
+/Users/george.moses/Ball State/CS690-Project/SoloTravelPlanner/bin/Debug/net10.0/SoloTravelPlanner.deps.json
+/Users/george.moses/Ball State/CS690-Project/SoloTravelPlanner/bin/Debug/net10.0/SoloTravelPlanner.runtimeconfig.json
+/Users/george.moses/Ball State/CS690-Project/SoloTravelPlanner/bin/Debug/net10.0/SoloTravelPlanner.dll
+/Users/george.moses/Ball State/CS690-Project/SoloTravelPlanner/bin/Debug/net10.0/SoloTravelPlanner.pdb
+/Users/george.moses/Ball State/CS690-Project/SoloTravelPlanner/obj/Debug/net10.0/SoloTravelPlanner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/george.moses/Ball State/CS690-Project/SoloTravelPlanner/obj/Debug/net10.0/SoloTravelPlanner.AssemblyInfoInputs.cache
+/Users/george.moses/Ball State/CS690-Project/SoloTravelPlanner/obj/Debug/net10.0/SoloTravelPlanner.AssemblyInfo.cs
+/Users/george.moses/Ball State/CS690-Project/SoloTravelPlanner/obj/Debug/net10.0/SoloTravelPlanner.csproj.CoreCompileInputs.cache
+/Users/george.moses/Ball State/CS690-Project/SoloTravelPlanner/obj/Debug/net10.0/SoloTravelPlanner.sourcelink.json
+/Users/george.moses/Ball State/CS690-Project/SoloTravelPlanner/obj/Debug/net10.0/SoloTravelPlanner.dll
+/Users/george.moses/Ball State/CS690-Project/SoloTravelPlanner/obj/Debug/net10.0/refint/SoloTravelPlanner.dll
+/Users/george.moses/Ball State/CS690-Project/SoloTravelPlanner/obj/Debug/net10.0/SoloTravelPlanner.pdb
+/Users/george.moses/Ball State/CS690-Project/SoloTravelPlanner/obj/Debug/net10.0/SoloTravelPlanner.genruntimeconfig.cache
+/Users/george.moses/Ball State/CS690-Project/SoloTravelPlanner/obj/Debug/net10.0/ref/SoloTravelPlanner.dll
